@@ -18,18 +18,7 @@ Environments in which to use jQuery
 - To use jQuery in Node, browser extensions, and other non-browser environments, use only master branch releases given the name "jquery" rather than "jquery-compat". The compat branch does not support these environments.
 
 
-What you need to build your own jQuery
---------------------------------------
 
-In order to build jQuery, you need to have the latest Node.js/npm and git 1.7 or later. Earlier versions might work, but are not supported.
-
-For Windows, you have to download and install [git](http://git-scm.com/downloads) and [Node.js](http://nodejs.org/download/).
-
-OS X users should install [Homebrew](http://brew.sh/). Once Homebrew is installed, run `brew install git` to install git,
-and `brew install node` to install Node.js.
-
-Linux/BSD users should use their appropriate package managers to install git and Node.js, or build from source
-if you swing that way. Easy-peasy.
 
 
 How to build your own jQuery
